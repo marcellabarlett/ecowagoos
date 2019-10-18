@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://zooheithie.vance.github.io/sitemap.xml
